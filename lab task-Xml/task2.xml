@@ -1,0 +1,29 @@
+<task_2>
+    <student_info>
+        <slNo>23</slNo>
+        <name>John Carter</name>
+        <admissioDate>
+            <date>25</date>
+            <month>12</month>
+            <year>2015</year>
+        </admissioDate>
+    </student_info>
+    <student_info>
+        <slNo>29</slNo>
+        <name>Bob Marshal</name>
+        <admissioDate>
+            <date>13</date>
+            <month>01</month>
+            <year>1999</year>
+        </admissioDate>
+    </student_info>
+    <student_info>
+        <slNo>35</slNo>
+        <name>Clark Kent</name>
+        <admissioDate>
+            <date>17</date>
+            <month>06</month>
+            <year>2005</year>
+        </admissioDate>
+    </student_info>
+</task_2>
